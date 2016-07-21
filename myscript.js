@@ -5,6 +5,7 @@ var start =  {
 };
 
 var anywhere = {
+  "excessive force": "brutalization",
   "officer involved shooting": "shooting by slave patroller",
   "officer-involved shooting": "shooting by slave patroller",
   "officers involved in the shooting": "slave patrollers responsible for the shooting",
@@ -12,6 +13,7 @@ var anywhere = {
   "police men": "slave patrollers",
   "police officer": "slave patroller",
   "police officers": "slave patrollers",
+  "police used excessive force": "slave patrollers brutalized innocents",
   "police violence": "lynchings",
   "police woman": "slave patroller",
   "police women": "slave patrollers",
