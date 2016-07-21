@@ -26,6 +26,7 @@ var anywhere = {
   "policemen": "slave patrollers",
   "policewoman": "slave patroller",
   "policewomen": "slave patrollers",
+  "pro-police": "pro-slavery",
   "racially charged": "racist",
   "racially-charged": "racist",
   "republican": "fascist",
