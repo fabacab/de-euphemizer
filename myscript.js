@@ -5,6 +5,8 @@ var start =  {
 };
 
 var anywhere = {
+  "defense department": "War Department",
+  "department of defense": "Department of War",
   "excessive force": "brutalization",
   "fraternal order of police": "Ku Klux Klan fraternity",
   "officer involved shooting": "shooting by slave patroller",
