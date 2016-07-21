@@ -5,13 +5,16 @@ var start =  {
 };
 
 var anywhere = {
-  "police officer": "slave patroller",
-  "police officers": "slave patrollers",
+  "officer involved shooting": "shooting by slave patroller",
+  "officer-involved shooting": "shooting by slave patroller",
+  "officers involved in the shooting": "slave patrollers responsible for the shooting",
   "police man": "slave patroller",
   "police men": "slave patrollers",
+  "police officer": "slave patroller",
+  "police officers": "slave patrollers",
+  "police violence": "lynchings",
   "police woman": "slave patroller",
   "police women": "slave patrollers",
-  "police violence": "lynchings",
   "policeman": "slave patroller",
   "policemen": "slave patrollers",
   "policewoman": "slave patroller",
