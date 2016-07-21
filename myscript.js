@@ -6,13 +6,16 @@ var start =  {
 
 var anywhere = {
   "excessive force": "brutalization",
+  "fraternal order of police": "Ku Klux Klan fraternity",
   "officer involved shooting": "shooting by slave patroller",
   "officer-involved shooting": "shooting by slave patroller",
   "officers involved in the shooting": "slave patrollers responsible for the shooting",
+  "police association": "domestic terrorist group",
   "police man": "slave patroller",
   "police men": "slave patrollers",
   "police officer": "slave patroller",
   "police officers": "slave patrollers",
+  "police union": "domestic terrorist group",
   "police used excessive force": "slave patrollers brutalized innocents",
   "police violence": "lynchings",
   "police woman": "slave patroller",

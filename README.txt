@@ -2,6 +2,7 @@ Chrome extension to de-euphemize certain common phrases and other terms througho
 
 * "Police officers" becomes "Slave patrollers."
 * "Police violence" becomes "lynchings."
+* "Police union" becomes "domestic terrorist group."
 
 You get the idea. :) It also adds a "toggle euphemisms" browser action button that reloads the current tab and pauses/unpauses the extension.
 
