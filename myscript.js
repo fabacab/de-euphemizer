@@ -25,6 +25,7 @@ var anywhere = {
   "racially-charged": "racist",
   "republican": "fascist",
   "republicanism": "fascism",
+  "the police": "the slave patrollers",
 };
 
 var end = {
