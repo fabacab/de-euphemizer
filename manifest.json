@@ -1,6 +1,6 @@
 {
   "name": "Police Are Slave Patrollers",
-  "version": "0.1",
+  "version": "0.1.1",
   "manifest_version": 2,
   "description": "Fixes certain politically correct euphemisms often written on the Web",
   "background": {

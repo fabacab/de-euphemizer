@@ -18,6 +18,11 @@ https://maymay.net/have-we-disarmed-the-police-yet/
 
 INSTALL INSTRUCTIONS:
 
+1. Install from the Chrome Web Store:
+https://chrome.google.com/webstore/detail/police-are-slave-patrolle/ngjggakcpjladadijhgmpemakehbimpm?hl=en
+
+DEVELOPMENT INSTRUCTIONS:
+
 1. Download the latest version as a ZIP file: https://github.com/meitar/de-euphemizer/archive/master.zip
 2. Unzip the ZIP file you downloaded.
 3. Open Google Chrome and go to chrome://extensions/ (in the address bar).
@@ -25,7 +30,15 @@ INSTALL INSTRUCTIONS:
 5. Click the "Load unpacked extension…" button.
 6. Browse to the folder you unzipped in step 2.
 
-I'm in the process of getting Google to publish this on their Chrome Web Store, but that's not done yet.
+***
+
+SUPPORT PROJECTS LIKE THESE:
+
+I have a slew of other large and small projects, many with an All Cops Are Bastards theme. As a happily unemployed traitor to capitalism recovering from an IT career, I rely on donations for food and sometimes also for shelter. You can find a list of projects I'm involved with and various ways to support me and said projects on my homepage:
+
+https://maymay.net/
+
+Thanks.
 
 ***
 
